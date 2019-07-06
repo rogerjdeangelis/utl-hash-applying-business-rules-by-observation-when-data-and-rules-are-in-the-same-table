@@ -1,20 +1,23 @@
 # utl-hash-applying-business-rules-by-observation-when-data-and-rules-are-in-the-same-table
-HASH: Applying business rules by observation when data and rules are in the same table 
-    HASH: Applying business rules by observation when data and rules are in the same table                                                   
-                                                                                                                                             
-    Techinque by                                                                                                                             
-                                                                                                                                             
-    Bartosz Jablonski                                                                                                                        
-    yabwon@gmail.com                                                                                                                         
-                                                                                                                                             
-    Thanks Bart et all                                                                                                                       
-                                                                                                                                             
-    Executing code contained in data within a datastep is potetially very usefull.                                                           
-    I have not seen this novel tecnique before.                                                                                              
-                                                                                                                                             
-    SAS-L Posting                                                                                                                            
-    https://listserv.uga.edu/cgi-bin/wa?A2=SAS-L;1dcc6dbe.1907a                                                                              
-                                                                                                                                             
+    HASH: Applying business rules by observation when data and rules are in the same table                                            
+                                                                                                                                      
+    Techinque by                                                                                                                      
+                                                                                                                                      
+    Bartosz Jablonski                                                                                                                 
+    yabwon@gmail.com                                                                                                                  
+                                                                                                                                      
+    Thanks Bart et all                                                                                                                
+                                                                                                                                      
+    Executing code contained in data within a datastep is potetially very usefull.                                                    
+    I have not seen this novel tecnique before.                                                                                       
+                                                                                                                                      
+    github                                                                                                                            
+    https://tinyurl.com/yxtsl88r                                                                                                      
+    https://github.com/rogerjdeangelis/utl-hash-applying-business-rules-by-observation-when-data-and-rules-are-in-the-same-table      
+                                                                                                                                      
+    SAS-L Posting                                                                                                                     
+    https://listserv.uga.edu/cgi-bin/wa?A2=SAS-L;1dcc6dbe.1907a                                                                       
+
     *_                   _                                                                                                                   
     (_)_ __  _ __  _   _| |_                                                                                                                 
     | | '_ \| '_ \| | | | __|                                                                                                                
